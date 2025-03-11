@@ -1,0 +1,8 @@
+ce0ed9a Ajout du fichier app.py
+84f811b Mise à jour README
+1b51245 Résolution du conflit entre feature_x et main
+99d6a9c Ajout du message de bienvenue
+b6eeaf1 modification 2 main
+60a1212 Ajout de l'affichage de la date et l'heure
+a752cbf Mise à jour README
+3f49073 Initial commit
